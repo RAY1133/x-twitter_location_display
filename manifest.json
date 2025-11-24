@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "X Location Display",
+  "name": "X / Twitter Location Display",
   "version": "1.2.0",
   "description": "Displays user locations from their About section directly in your X/Twitter timeline for easier context.",
   "permissions": [
@@ -32,6 +32,6 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "X Location Display"
+    "default_title": "X / Twitter Location Display"
   }
 }

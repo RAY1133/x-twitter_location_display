@@ -1,4 +1,4 @@
-# X Location Display
+# X / Twitter Location Display
 
 A Chrome extension that displays user location information from X/Twitter profiles directly in your timeline.
 
@@ -47,7 +47,7 @@ A Chrome extension that displays user location information from X/Twitter profil
    - Select the folder and click "Select Folder" or "Open"
 
 5. **Verify Installation**
-   - You should see "X Location Display" appear in your extensions list
+   - You should see "X / Twitter Location Display" appear in your extensions list
    - Make sure the toggle is ON (blue)
    - You should see the extension icon in your Chrome toolbar
 

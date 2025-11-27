@@ -17,7 +17,7 @@ A Chrome extension that displays user location information from X/Twitter profil
 ## Installation
 
 ### Option 1: From Chrome Web Store (Recommended)
-*Coming soon - Link will be added once published*
+[X Location Display on Chrome Web Store](https://chromewebstore.google.com/detail/x-location-display/mafcadaplmbmjpapkodbocfdgeihjjpo)
 
 ### Option 2: Load Locally (Development/Testing)
 
